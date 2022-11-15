@@ -1,57 +1,77 @@
-import flatpickr from "flatpickr";
+// Load libraries
+import flatpickr from 'flatpickr';
+import { Notify } from 'notiflix/build/notiflix-notify-aio';
 
+// Links on HTML elements
 ref = {
-    activateButton: document.querySelector('button[data-start]'),
-    daysIndicator: document.querySelector('span[data-days]'),
-    hoursIndicator: document.querySelector('span[data-hours]'),
-    minutesIndicator: document.querySelector('span[data-minutes]'),
-    secondsIndicator: document.querySelector('span[data-seconds]'),
-}
+  activateButton: document.querySelector('button[data-start]'),
+  daysIndicator: document.querySelector('span[data-days]'),
+  hoursIndicator: document.querySelector('span[data-hours]'),
+  minutesIndicator: document.querySelector('span[data-minutes]'),
+  secondsIndicator: document.querySelector('span[data-seconds]'),
+};
 
+// Added special operators
 ref.activateButton.setAttribute('disabled', true);
-ref.activateButton.addEventListener("click", onActivateBottonClick)
+ref.activateButton.addEventListener('click', onActivateBottonClick);
 
 let SELECTEDTIME;
+let intervalId;
 
+// Options for "flatpickr" lib.
 const options = {
   enableTime: true,
   time_24hr: true,
   defaultDate: new Date(),
   minuteIncrement: 1,
-  onClose(selectedDates) {      
-      if ((selectedDates[0].getTime() - options.defaultDate.getTime()) <= 0) {
-        alert("Please choose a date in the future");
-      } else{
-        SELECTEDTIME = selectedDates[0].getTime();
-        ref.activateButton.removeAttribute('disabled');
-      }
+  onClose(selectedDates) {
+    if (
+      selectedDates[0].getTime() - options.defaultDate.getTime() <= 0 &&
+      intervalId === undefined
+    ) {
+      // alert("Please choose a date in the future");
+      Notify.failure('Please, choose a date in the future!!!');
+      ref.activateButton.setAttribute('disabled', true);
+    } else if (
+      selectedDates[0].getTime() - options.defaultDate.getTime() > 0 &&
+      intervalId === undefined
+    ) {
+      SELECTEDTIME = selectedDates[0].getTime();
+      ref.activateButton.removeAttribute('disabled');
+      Notify.success('The time has been successfully selected!!!');
+    } else {
+      Notify.warning('!!! The timer is now running !!!');
+    }
   },
 };
 
 flatpickr('input#datetime-picker', options);
 
-let intervalId;
+// Here function list
+function onActivateBottonClick() {
+  if (SELECTEDTIME - new Date().getTime() <= 0) {
+    // alert("The selected time has expired")
 
-function onActivateBottonClick(){
-  if ((SELECTEDTIME - (new Date()).getTime()) <= 0) {
-    alert("The selected time has expired")
+    Notify.warning('The selected time has expired!!!');
   } else {
+    ref.activateButton.setAttribute('disabled', true);
+    ref.activateButton.removeEventListener('click', onActivateBottonClick);
+
     calculateDiffTime(SELECTEDTIME);
     intervalId = setInterval(calculateDiffTime, 1000, SELECTEDTIME);
-    }    
+    Notify.success('Time countdown start!!!');
+  }
 }
 
 function calculateDiffTime(selectedTime) {
-  if ((selectedTime - (new Date()).getTime()) < 0) {
+  if (selectedTime - new Date().getTime() < 0) {
     clearInterval(intervalId);
   } else {
-    ref.activateButton.setAttribute('disabled', true);
-
-    let getTimeIndicator = convertMs(selectedTime - (new Date()).getTime())
+    let getTimeIndicator = convertMs(selectedTime - new Date().getTime());
     ref.daysIndicator.textContent = addLeadingZero(getTimeIndicator.days);
     ref.hoursIndicator.textContent = addLeadingZero(getTimeIndicator.hours);
     ref.minutesIndicator.textContent = addLeadingZero(getTimeIndicator.minutes);
-    ref.secondsIndicator.textContent = addLeadingZero(getTimeIndicator.seconds);    
+    ref.secondsIndicator.textContent = addLeadingZero(getTimeIndicator.seconds);
   }
 }
 
@@ -61,7 +81,6 @@ function convertMs(ms) {
   const minute = second * 60;
   const hour = minute * 60;
   const day = hour * 24;
-
   // Remaining days
   const days = Math.floor(ms / day);
   // Remaining hours
@@ -76,8 +95,7 @@ function convertMs(ms) {
 
 function addLeadingZero(value) {
   if (value.lenght >= 2) {
-    value = value.padStart("0", 2)
+    value = value.padStart('0', 2);
   }
-  
   return value;
 }
