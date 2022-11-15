@@ -47,7 +47,8 @@ const options = {
 
 flatpickr('input#datetime-picker', options);
 
-// Here function list
+//***** Here function list*****/ 
+// If click on button
 function onActivateBottonClick() {
   if (SELECTEDTIME - new Date().getTime() <= 0) {
     // alert("The selected time has expired")
@@ -63,6 +64,7 @@ function onActivateBottonClick() {
   }
 }
 
+// Calculate time tange
 function calculateDiffTime(selectedTime) {
   if (selectedTime - new Date().getTime() < 0) {
     clearInterval(intervalId);
@@ -75,6 +77,7 @@ function calculateDiffTime(selectedTime) {
   }
 }
 
+// Mandatory functions
 function convertMs(ms) {
   // Number of milliseconds per unit of time
   const second = 1000;

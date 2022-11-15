@@ -10,3 +10,4 @@ function createPromise(position, delay) {
     // Reject
   }
 }
+
