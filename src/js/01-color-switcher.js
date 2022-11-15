@@ -10,19 +10,19 @@ ref.startButton.addEventListener('click', onStartButtonClick);
 ref.stopButton.addEventListener('click', onStopButtonClick);
 
 // Support code
-ref.stopButton.setAttribute('disabled', '');
+ref.stopButton.setAttribute('disabled', true);
 let intervalId;
 
 // Functions
 function onStartButtonClick() {
   ref.stopButton.removeAttribute('disabled');
-  ref.startButton.setAttribute('disabled', '');
+  ref.startButton.setAttribute('disabled', true);
   intervalId = setInterval(changeBodyColor, 1000);
 }
 
 function onStopButtonClick() {
   ref.startButton.removeAttribute('disabled');
-  ref.stopButton.setAttribute('disabled', '');
+  ref.stopButton.setAttribute('disabled', true);
   clearInterval(intervalId);
 }
 
