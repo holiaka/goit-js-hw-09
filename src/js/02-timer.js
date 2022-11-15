@@ -3,7 +3,7 @@ import flatpickr from 'flatpickr';
 import { Notify } from 'notiflix/build/notiflix-notify-aio';
 
 // Links on HTML elements
-ref = {
+const ref = {
   activateButton: document.querySelector('button[data-start]'),
   daysIndicator: document.querySelector('span[data-days]'),
   hoursIndicator: document.querySelector('span[data-hours]'),

@@ -1,5 +1,5 @@
 // HTML links
-ref = {
+const ref = {
   body: document.querySelector('body'),
   startButton: document.querySelector('button[data-start]'),
   stopButton: document.querySelector('button[data-stop]'),
