@@ -20,7 +20,7 @@ function onButtonClick(evt) {
   if (delayT < 0 || stepT < 0 || amountT <= 0) {
     Notify.failure('You enter no corect values');
   } else {
-    for (let i = 1; i <= amountT + 1; i++) {
+    for (let i = 1; i <= amountT; i++) {
       const fullDelay = delayT + (i - 1) * stepT;
       console.log(fullDelay);
       createPromise(i, fullDelay).then(successCallback).catch(failureCallback);
