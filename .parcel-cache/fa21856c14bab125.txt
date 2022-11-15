@@ -1,17 +1,18 @@
-4981
+5014
 55/home/dima/Documents/GitHub/goit-js-hw-09/.editorconfig1668285690117872000 0
-60/home/dima/Documents/GitHub/goit-js-hw-09/src/js/02-timer.js1668497702504463221 0
-69/home/dima/Documents/GitHub/goit-js-hw-09/src/js/01-color-switcher.js1668460697335461437 0
+60/home/dima/Documents/GitHub/goit-js-hw-09/src/js/02-timer.js1668508223876562791 0
+69/home/dima/Documents/GitHub/goit-js-hw-09/src/js/01-color-switcher.js1668508205772546314 0
 68/home/dima/Documents/GitHub/goit-js-hw-09/src/01-color-switcher.html1668289432434906399 0
 56/home/dima/Documents/GitHub/goit-js-hw-09/src/index.html1668277760000000000 0
-59/home/dima/Documents/GitHub/goit-js-hw-09/src/02-timer.html1668453537948531285 0
+59/home/dima/Documents/GitHub/goit-js-hw-09/src/02-timer.html1668498939873972449 0
 49/home/dima/Documents/GitHub/goit-js-hw-09/.github1668285690117872000 1
-76/home/dima/Documents/GitHub/goit-js-hw-09/dist/goit-js-hw-09.59712999.js.map1668496724919754059 0
-68/home/dima/Documents/GitHub/goit-js-hw-09/dist/02-timer.d073afb2.css1668496724883753975 0
-77/home/dima/Documents/GitHub/goit-js-hw-09/dist/01-color-switcher.101ee4ef.css1668496724883753975 0
-63/home/dima/Documents/GitHub/goit-js-hw-09/dist/03-promises.html1668496724959754153 0
-81/home/dima/Documents/GitHub/goit-js-hw-09/dist/01-color-switcher.101ee4ef.css.map1668496724887753984 0
-46/home/dima/Documents/GitHub/goit-js-hw-09/dist1668497702620450809 1
+68/home/dima/Documents/GitHub/goit-js-hw-09/dist/02-timer.dc9fd617.css1668521319424565080 0
+76/home/dima/Documents/GitHub/goit-js-hw-09/dist/goit-js-hw-09.59712999.js.map1668521319432564938 0
+68/home/dima/Documents/GitHub/goit-js-hw-09/dist/02-timer.d073afb2.css1668521319424565080 0
+77/home/dima/Documents/GitHub/goit-js-hw-09/dist/01-color-switcher.101ee4ef.css1668521319424565080 0
+63/home/dima/Documents/GitHub/goit-js-hw-09/dist/03-promises.html1668521319444564728 0
+81/home/dima/Documents/GitHub/goit-js-hw-09/dist/01-color-switcher.101ee4ef.css.map1668521319424565080 0
+46/home/dima/Documents/GitHub/goit-js-hw-09/dist1668521478425775917 1
 74/home/dima/Documents/GitHub/goit-js-hw-09/assets/actions-config-step-1.png1668285690121872000 0
 66/home/dima/Documents/GitHub/goit-js-hw-09/assets/repo-settings.png1668285690125872000 0
 48/home/dima/Documents/GitHub/goit-js-hw-09/assets1668285690125872000 1
@@ -277,7 +278,7 @@
 84/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/css-tree/lib/parser/create.js1668286398689147056 0
 105/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/parcel-reporter-clean-dist/test/fixtures/packageV11668286398801141996 1
 105/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/parcel-reporter-clean-dist/src/getFilesToRemove.js1668286398069175070 0
-63/home/dima/Documents/GitHub/goit-js-hw-09/src/js/03-promises.js1668459135582445488 0
+63/home/dima/Documents/GitHub/goit-js-hw-09/src/js/03-promises.js1668521478289778300 0
 94/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/parcel-reporter-clean-dist/package.json1668286398469156997 0
 86/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/parcel-reporter-clean-dist/dist1668286398729145249 1
 91/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/parcel-reporter-clean-dist/.eslintrc1668286397669193161 0
@@ -442,7 +443,6 @@
 88/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/posthtml-expressions/lib/index.js1668286397941180856 0
 79/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/posthtml-expressions/lib1668286398113173082 1
 85/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/posthtml-expressions/readme.md1668286398273165852 0
-83/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/posthtml-expressions/license1668286397669193161 0
 74/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/has-flag/index.d.ts1668286397717190990 0
 79/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/domhandler/lib/node.d.ts1668286398245167117 0
 92/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/csso/lib/replace/AttributeSelector.js1668286398433158623 0
@@ -661,7 +661,7 @@
 83/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/electron-to-chromium/LICENSE1668286397705191532 0
 87/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/electron-to-chromium/versions.js1668286398181170009 0
 94/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/electron-to-chromium/full-versions.json1668286398341162780 0
-73/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/.package-lock.json1668447163434732211 0
+73/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/.package-lock.json1668498308350366000 0
 65/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/fclone/src1668286398181170009 1
 66/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/fclone/dist1668286398045176154 1
 72/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/fclone/.npmignore1668286397717190990 0
@@ -683,7 +683,7 @@
 76/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/svgo/lib/svgo-node.js1668286398993133320 0
 71/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/svgo/lib/svgo.js1668286399137126822 0
 71/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/svgo/lib/xast.js1668286399145126461 0
-71/home/dima/Documents/GitHub/goit-js-hw-09/dist/02-timer.f9388f03.js.map1668497702620450809 0
+71/home/dima/Documents/GitHub/goit-js-hw-09/dist/02-timer.f9388f03.js.map1668521319432564938 0
 76/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/domutils/package.json1668286398245167117 0
 78/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/svgo/lib/stringifier.js1668286398985133682 0
 63/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/svgo/lib1668286399173125197 1
@@ -739,6 +739,21 @@
 92/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/lmdb-linux-x64/node.abi108.glibc.node1668286399077129530 0
 79/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/lmdb-linux-x64/README.md1668286397789187732 0
 69/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/lmdb-linux-x641668286399517109673 1
+79/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/notiflix/src/notiflix.js1668498308134375523 0
+81/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/notiflix/src/notiflix.d.ts1668498308182373406 0
+67/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/notiflix/src1668498308178373583 1
+74/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/notiflix/index.d.ts1668498308174373759 0
+94/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/notiflix/dist/notiflix-aio-3.2.5.min.js1668498307646397056 0
+90/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/notiflix/dist/notiflix-3.2.5.min.js1668498307574400234 0
+95/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/notiflix/build/notiflix-confirm-aio.d.ts1668498308178373583 0
+91/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/notiflix/build/notiflix-block-aio.js1668498307810389817 0
+83/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/posthtml-expressions/license1668286397669193161 0
+94/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/notiflix/build/notiflix-report-aio.d.ts1668498308178373583 0
+94/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/notiflix/build/notiflix-notify-aio.d.ts1668498308178373583 0
+93/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/notiflix/build/notiflix-confirm-aio.js1668498307850388051 0
+95/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/notiflix/build/notiflix-loading-aio.d.ts1668498308178373583 0
+71/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/notiflix/LICENSE1668498307490403941 0
+73/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/notiflix/README.md1668498308138375346 0
 77/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/safe-buffer/index.d.ts1668286398037176515 0
 75/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/safe-buffer/index.js1668286397705191532 0
 74/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/safe-buffer/LICENSE1668286397665193341 0
@@ -941,7 +956,7 @@
 69/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/lmdb/native.js1668286399401114908 0
 67/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/lmdb/open.js1668286399405114727 0
 99/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/lmdb/node_modules/node-addon-api/except.gypi1668286397881183570 0
-60/home/dima/Documents/GitHub/goit-js-hw-09/dist/02-timer.html1668496724959754153 0
+60/home/dima/Documents/GitHub/goit-js-hw-09/dist/02-timer.html1668521319444564728 0
 100/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/lmdb/node_modules/node-addon-api/package.json1668286398629149767 0
 72/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/acorn/dist/bin.js1668286398353162238 0
 96/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/lmdb/node_modules/node-addon-api/index.js1668286398609150671 0
@@ -1063,6 +1078,7 @@
 109/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/caniuse-lite/data/features/css-file-selector-button.js1668286399245121948 0
 107/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/caniuse-lite/data/features/passive-event-listener.js1668286399693101730 0
 100/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/caniuse-lite/data/features/media-attribute.js1668286399657103355 0
+85/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/notiflix/build/notiflix-aio.js1668498307754392288 0
 101/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/caniuse-lite/data/features/css-not-sel-list.js1668286399333117977 0
 98/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/caniuse-lite/data/features/online-status.js1668286399693101730 0
 98/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/caniuse-lite/data/features/selection-api.js1668286399729100105 0
@@ -1129,7 +1145,7 @@
 90/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/nan/nan_implementation_pre_12_inl.h1668286398241167298 0
 75/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/run-parallel/LICENSE1668286397665193341 0
 108/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/caniuse-lite/data/features/font-variant-alternates.js1668286399601105882 0
-70/home/dima/Documents/GitHub/goit-js-hw-09/dist/03-promises.cd58c9ff.js1668496724911754041 0
+70/home/dima/Documents/GitHub/goit-js-hw-09/dist/03-promises.cd58c9ff.js1668521478421775987 0
 77/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/csso/lib/clean/Rule.js1668286398901137478 0
 98/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/caniuse-lite/data/features/css-clip-path.js1668286399205123753 0
 109/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/caniuse-lite/data/features/css-indeterminate-pseudo.js1668286399281120323 0
@@ -1147,7 +1163,7 @@
 100/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/caniuse-lite/data/features/insert-adjacent.js1668286399637104257 0
 84/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/sass/types/value/boolean.d.ts1668286399433113464 0
 102/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/caniuse-lite/data/features/fieldset-disabled.js1668286399585106604 0
-67/home/dima/Documents/GitHub/goit-js-hw-09/dist/02-timer.f9388f03.js1668497702616451237 0
+67/home/dima/Documents/GitHub/goit-js-hw-09/dist/02-timer.f9388f03.js1668521319424565080 0
 99/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/caniuse-lite/data/features/css-appearance.js1668286399185124656 0
 89/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/parcel-reporter-clean-dist/LICENSE1668286397705191532 0
 76/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/fclone/dist/fclone.js1668286397997178323 0
@@ -1226,7 +1242,7 @@
 77/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/nth-check/lib/parse.js1668286398069175070 0
 105/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/caniuse-lite/data/features/font-variant-numeric.js1668286399601105882 0
 107/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/caniuse-lite/data/features/css-boxdecorationbreak.js1668286399197124114 0
-57/home/dima/Documents/GitHub/goit-js-hw-09/dist/index.html1668496724959754153 0
+57/home/dima/Documents/GitHub/goit-js-hw-09/dist/index.html1668521319444564728 0
 96/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@babel/highlight/node_modules/chalk/types1668286398105173443 1
 102/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/caniuse-lite/data/features/input-placeholder.js1668286399633104438 0
 96/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/caniuse-lite/data/features/videotracks.js1668286399801096856 0
@@ -1331,6 +1347,7 @@
 97/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/caniuse-lite/data/features/css-counters.js1668286399217123212 0
 94/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/caniuse-lite/data/features/clipboard.js1668286399101128447 0
 94/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/caniuse-lite/data/features/autofocus.js1668286398781142899 0
+102/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/notiflix/dist/notiflix-confirm-aio-3.2.5.min.js1668498307830388934 0
 95/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/caniuse-lite/data/features/css-canvas.js1668286399197124114 0
 106/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/caniuse-lite/data/features/requestanimationframe.js1668286399721100467 0
 106/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@jridgewell/trace-mapping/dist/trace-mapping.umd.js1668286397877183752 0
@@ -1549,6 +1566,7 @@
 86/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/caniuse-lite/data/regions/LR.js1668286399653103535 0
 104/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mtest4.c1668286399161125739 0
 86/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/caniuse-lite/data/regions/TH.js1668286399773098119 0
+76/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/notiflix/package.json1668498308138375346 0
 86/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/caniuse-lite/data/regions/GW.js1668286399613105340 0
 86/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/caniuse-lite/data/regions/HN.js1668286399617105160 0
 86/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/caniuse-lite/data/regions/AT.js1668286398753144164 0
@@ -1561,7 +1579,7 @@
 86/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/caniuse-lite/data/regions/SY.js1668286399745099383 0
 92/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@mischnic/json-sourcemap/package.json1668286397817186465 0
 86/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/caniuse-lite/data/regions/GM.js1668286399613105340 0
-59/home/dima/Documents/GitHub/goit-js-hw-09/package-lock.json1668447163374732548 0
+59/home/dima/Documents/GitHub/goit-js-hw-09/package-lock.json1668498308298368292 0
 86/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/caniuse-lite/data/regions/GI.js1668286399613105340 0
 93/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/css-tree/lib/syntax/node/Combinator.js1668286398569152478 0
 86/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/caniuse-lite/data/regions/DO.js1668286399533108950 0
@@ -1696,7 +1714,7 @@
 101/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@swc/helpers/lib/_skip_first_generator_next.js1668286398809141634 0
 89/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/caniuse-lite/data/features/cors.js1668286399153126100 0
 92/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@parcel/core/lib/public/Dependency.js1668286399001132959 0
-81/home/dima/Documents/GitHub/goit-js-hw-09/dist/01-color-switcher.ed2f3a52.css.map1668496724887753984 0
+81/home/dima/Documents/GitHub/goit-js-hw-09/dist/01-color-switcher.ed2f3a52.css.map1668521319428565008 0
 88/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@parcel/core/lib/public/Target.js1668286399357116893 0
 78/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@parcel/core/lib/public1668286399357116893 1
 71/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/fclone/README.md1668286397789187732 0
@@ -1731,7 +1749,7 @@
 96/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/caniuse-lite/data/features/css-hyphens.js1668286399277120504 0
 93/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@parcel/core/lib/public/BundleGraph.js1668286398905137297 0
 112/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@parcel/runtime-js/src/helpers/browser/import-polyfill.js1668286398569152478 0
-62/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@parcel1668447163282733066 1
+62/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@parcel1668498308202372525 1
 74/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/is-extglob/index.js1668286397849185018 0
 64/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/fast-glob1668286398661148321 1
 115/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@parcel/core/test/fixtures/config-plugin-not-found/.parcelrc1668286398409159707 0
@@ -1747,6 +1765,7 @@
 82/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/type-fest/source/merge.d.ts1668286398489156093 0
 99/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/flatpickr/src/style/themes/material_red.styl1668445611880135513 0
 102/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/flatpickr/src/style/themes/material_orange.styl1668445611880135513 0
+102/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/notiflix/dist/notiflix-loading-aio-3.2.5.min.js1668498307874386991 0
 101/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/caniuse-lite/data/features/cookie-store-api.js1668286399153126100 0
 86/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/caniuse-lite/data/regions/UA.js1668286399789097398 0
 92/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/flatpickr/src/style/themes/light.styl1668445611880135513 0
@@ -1809,6 +1828,7 @@
 85/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/type-fest/ts41/camel-case.d.ts1668286398169170552 0
 86/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@parcel/plugin/src/PluginAPI.js1668286397917181942 0
 84/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/flatpickr/dist/esm/l10n/lt.js1668445611796135948 0
+69/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/notiflix/build1668498308178373583 1
 94/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/caniuse-lite/data/features/maxlength.js1668286399657103355 0
 97/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/flatpickr/dist/esm/plugins/scrollPlugin.js1668445611836135741 0
 91/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@parcel/transformer-raw/package.json1668286397969179590 0
@@ -1903,7 +1923,7 @@
 95/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/caniuse-lite/data/features/use-strict.js1668286399793097217 0
 91/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/css-what/lib/commonjs/parse.d.ts.map1668286398429158804 0
 80/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/flatpickr/dist/l10n/be.js1668445610544142438 0
-72/home/dima/Documents/GitHub/goit-js-hw-09/dist/goit-js-hw-09.59712999.js1668496724911754041 0
+72/home/dima/Documents/GitHub/goit-js-hw-09/dist/goit-js-hw-09.59712999.js1668521319428565008 0
 82/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@types/parse-json/README.md1668286397725190627 0
 71/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/terser/lib/utils1668286398993133320 1
 83/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/flatpickr/dist/l10n/index.js1668445611784136010 0
@@ -2029,6 +2049,7 @@
 76/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/node-releases/LICENSE1668286397673192980 0
 79/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/fastq/test/tsconfig.json1668286398089174166 0
 78/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/browserslist/index.d.ts1668286398281165491 0
+100/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/notiflix/dist/notiflix-block-aio-3.2.5.min.js1668498307786390876 0
 100/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@parcel/packager-js/src/GlobalOutputFormat.js1668286398281165491 0
 68/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/node-releases1668286398149171455 1
 91/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/node-addon-api/tools/clang-format.js1668286398513155009 0
@@ -2067,6 +2088,7 @@
 97/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/caniuse-lite/data/features/transforms3d.js1668286399781097759 0
 75/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@parcel/core/LICENSE1668286398597151213 0
 89/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/sass/types/legacy/plugin_this.d.ts1668286399501110395 0
+101/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/notiflix/dist/notiflix-report-aio-3.2.5.min.js1668498307966382931 0
 96/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/caniuse-lite/data/features/sql-storage.js1668286399737099744 0
 84/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/react-error-overlay/README.md1668286398473156816 0
 77/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@parcel/config-default1668286397929181399 1
@@ -2336,6 +2358,7 @@
 85/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/escape-string-regexp/readme.md1668286397853184837 0
 95/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@parcel/reporter-cli/src/bundleReport.js1668286397809186827 0
 92/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@swc/helpers/src/_array_with_holes.js1668286398933136032 0
+93/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/notiflix/build/notiflix-block-aio.d.ts1668498308178373583 0
 124/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/foo/package.json1668286399401114908 0
 93/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@nodelib/fs.scandir/out/constants.d.ts1668286398417159346 0
 137/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-alias-exclude/main.js1668286399185124656 0
@@ -2598,6 +2621,7 @@
 97/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/caniuse-lite/data/features/input-search.js1668286399633104438 0
 86/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/caniuse-lite/data/regions/VG.js1668286399797097036 0
 94/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@parcel/css-linux-x64-musl/package.json1668286397705191532 0
+91/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/notiflix/dist/notiflix-3.2.5.min.css1668498307494403765 0
 99/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@swc/helpers/lib/_tagged_template_literal.js1668286398829140731 0
 63/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@nodelib1668286395137307845 1
 85/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/css-what/lib/es/parse.d.ts.map1668286398445158081 0
@@ -2669,7 +2693,7 @@
 98/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/caniuse-lite/data/features/dispatchevent.js1668286399525109312 0
 95/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@parcel/watcher/src/windows/win_utils.hh1668286398653148683 0
 89/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@jridgewell/set-array/package.json1668286397877183752 0
-54/home/dima/Documents/GitHub/goit-js-hw-09/node_modules1668447163282733066 1
+54/home/dima/Documents/GitHub/goit-js-hw-09/node_modules1668498308202372525 1
 97/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@parcel/core/lib/requests/DevDepRequest.js1668286399013132418 0
 82/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/ordered-binary/package.json1668286398117172901 0
 107/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/caniuse-lite/data/features/link-rel-modulepreload.js1668286399653103535 0
@@ -2679,12 +2703,12 @@
 138/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/source-not-symlinked/source.js1668286399321118518 0
 84/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/svgo/plugins/convertColors.js1668286398549153382 0
 91/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/utility-types/dist/mapped-types.d.ts1668286398425158985 0
-69/home/dima/Documents/GitHub/goit-js-hw-09/dist/01-color-switcher.html1668496724959754153 0
+69/home/dima/Documents/GitHub/goit-js-hw-09/dist/01-color-switcher.html1668521319444564728 0
 93/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@swc/helpers/lib/_iterable_to_array.js1668286398737144887 0
 87/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@swc/helpers/lib/_ts_decorate.js1668286398873138743 0
 59/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@swc1668286395137307845 1
 95/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@parcel/core/src/public/PluginOptions.js1668286399285120143 0
-77/home/dima/Documents/GitHub/goit-js-hw-09/dist/01-color-switcher.ed2f3a52.css1668496724883753975 0
+77/home/dima/Documents/GitHub/goit-js-hw-09/dist/01-color-switcher.ed2f3a52.css1668521319428565008 0
 73/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/micromatch/LICENSE1668286397677192799 0
 91/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/flatpickr/dist/esm/types/instance.js1668445611788135990 0
 96/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@swc/helpers/lib/_wrap_async_generator.js1668286398901137478 0
@@ -2695,6 +2719,7 @@
 76/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/nan/nan_object_wrap.h1668286398441158262 0
 82/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/regenerator-runtime/LICENSE1668286397669193161 0
 79/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/utility-types/SUPPORT.md1668286398305164406 0
+68/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/notiflix/dist1668498307934384343 1
 80/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/posthtml-parser/readme.md1668286398149171455 0
 84/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/css-select/lib/index.d.ts.map1668286398517154828 0
 96/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@parcel/source-map/dist/SourceMap.js.flow1668286397881183570 0
@@ -2726,6 +2751,7 @@
 86/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/caniuse-lite/data/regions/CF.js1668286399061130252 0
 84/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@parcel/transformer-babel/lib1668286398445158081 1
 65/home/dima/Documents/GitHub/goit-js-hw-09/assets/how-it-works.png1668285690121872000 0
+92/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/notiflix/build/notiflix-notify-aio.js1668498307934384343 0
 104/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@swc/helpers/src/_define_enumerable_properties.js1668286399085129168 0
 82/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@parcel/workers/lib/process1668286398581151936 1
 82/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/flatpickr/src/style/ie.styl1668445611880135513 0
@@ -2738,6 +2764,7 @@
 64/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/.bin/sass1668286400857049244 0
 74/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/anymatch/index.d.ts1668286397905182485 0
 54/home/dima/Documents/GitHub/goit-js-hw-09/README.uk.md1668285690117872000 0
+87/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/notiflix/build/notiflix-aio.d.ts1668498308174373759 0
 89/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@parcel/utils/src/shared-buffer.js1668286399105128266 0
 85/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@parcel/core/lib/Validation.js1668286399485111117 0
 81/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@parcel/hash/index.js.flow1668286397741189903 0
@@ -3005,7 +3032,7 @@
 82/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/flatpickr/dist/l10n/et.d.ts1668445611896135430 0
 76/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/mdn-data/package.json1668286398493155912 0
 97/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@parcel/core/src/requests/ConfigRequest.js1668286398989133501 0
-72/home/dima/Documents/GitHub/goit-js-hw-09/dist/02-timer.d073afb2.css.map1668496724887753984 0
+72/home/dima/Documents/GitHub/goit-js-hw-09/dist/02-timer.d073afb2.css.map1668521319424565080 0
 80/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/flatpickr/dist/l10n/bg.js1668445610552142397 0
 71/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@nodelib/fs.stat1668286398269166033 1
 108/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mtest_enc2.c1668286399109128085 0
@@ -3058,7 +3085,7 @@
 95/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb1668286399513109853 1
 130/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@parcel/source-map/parcel_sourcemap_wasm/dist-node/parcel_sourcemap_wasm.js1668286398361161876 0
 144/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-browser-exclude/package.json1668286399425113825 0
-76/home/dima/Documents/GitHub/goit-js-hw-09/dist/01-color-switcher.52e3b619.js1668496724919754059 0
+76/home/dima/Documents/GitHub/goit-js-hw-09/dist/01-color-switcher.52e3b619.js1668521319428565008 0
 71/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/tslib/tslib.html1668286397705191532 0
 84/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@jridgewell/set-array/LICENSE1668286397705191532 0
 84/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/flatpickr/dist/esm/l10n/eo.js1668445610588142210 0
@@ -3081,7 +3108,7 @@
 86/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/caniuse-lite/data/regions/FJ.js1668286399589106423 0
 72/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/react-refresh/cjs1668286398169170552 1
 102/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/caniuse-lite/data/features/sharedarraybuffer.js1668286399733099925 0
-72/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@msgpackr-extract1668447163282733066 1
+72/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@msgpackr-extract1668498308202372525 1
 80/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@parcel/core/lib/requests1668286399505110214 1
 95/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@swc/helpers/lib/_object_spread_props.js1668286398781142899 0
 78/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/node-gyp-build/index.js1668286397837185561 0
@@ -3248,6 +3275,7 @@
 99/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/css-select/lib/pseudo-selectors/aliases.d.ts1668286398621150128 0
 99/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@swc/helpers/src/_class_private_field_get.js1668286399005132779 0
 79/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/css-select/lib/sort.d.ts1668286398681147418 0
+101/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/notiflix/dist/notiflix-notify-aio-3.2.5.min.js1668498307910385403 0
 82/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/css-select/lib/general.d.ts1668286398653148683 0
 90/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/css-tree/lib/syntax/node/AnPlusB.js1668286398093173985 0
 86/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@parcel/workers/lib/Profiler.js1668286398605150851 0
@@ -3353,7 +3381,7 @@
 85/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/svgo/plugins/removeUnusedNS.js1668286398937135851 0
 85/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@parcel/optimizer-htmlnano/lib1668286397925181580 1
 111/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@parcel/optimizer-image/parcel-image.win32-x64-msvc.node1668286399665102994 0
-62/home/dima/Documents/GitHub/goit-js-hw-09/src/css/02-timer.css1668453683751685223 0
+62/home/dima/Documents/GitHub/goit-js-hw-09/src/css/02-timer.css1668506783833452541 0
 73/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/tslib/tslib.es6.js1668286397937181037 0
 100/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@parcel/transformer-css/lib/CSSTransformer.js1668286397809186827 0
 84/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/ordered-binary/dist/index.cjs1668286397777188275 0
@@ -3496,6 +3524,7 @@
 91/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/caniuse-lite/data/features/tls1-3.js1668286399781097759 0
 93/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@parcel/packager-js/lib/DevPackager.js1668286398097173805 0
 71/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/htmlnano/test.js1668286398633149586 0
+80/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/notiflix/src/notiflix.css1668498307506403236 0
 93/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@parcel/packager-js/src/DevPackager.js1668286398161170913 0
 92/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/.bin/node-gyp-build-optional-packages1668286400857049244 0
 83/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@swc/helpers/src/_type_of.js1668286399209123573 0
@@ -3660,7 +3689,7 @@
 83/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@parcel/utils/src/urlJoin.js1668286399145126461 0
 70/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/posthtml-parser1668286398069175070 1
 74/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@parcel/workers/src1668286398765143622 1
-74/home/dima/Documents/GitHub/goit-js-hw-09/dist/03-promises.cd58c9ff.js.map1668496724919754059 0
+74/home/dima/Documents/GitHub/goit-js-hw-09/dist/03-promises.cd58c9ff.js.map1668521478421775987 0
 63/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/css-tree1668286399345117435 1
 78/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@parcel/packager-js/lib1668286398517154828 1
 98/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@parcel/core/src/TargetDescriptor.schema.js1668286399397115089 0
@@ -3697,6 +3726,7 @@
 95/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/flatpickr/dist/plugins/scrollPlugin.d.ts1668445611924135285 0
 93/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@parcel/core/test/PublicBundle.test.js1668286399293119781 0
 130/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/side-effects-false/src1668286399173125197 1
+92/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/notiflix/build/notiflix-report-aio.js1668498307986382048 0
 75/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/caniuse-lite/LICENSE1668286397729190447 0
 94/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/caniuse-lite/data/features/xhtmlsmil.js1668286399821095953 0
 81/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@parcel/core/test/fixtures1668286399573107146 1
@@ -3752,7 +3782,7 @@
 99/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@parcel/transformer-postcss/src/constants.js1668286397909182304 0
 156/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/side-effects-package-redirect-up/foo/real-bar.js1668286399289119962 0
 105/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@parcel/core/test/fixtures/config-plugin-not-found1668286398393160430 1
-54/home/dima/Documents/GitHub/goit-js-hw-09/package.json1668445612040134685 0
+54/home/dima/Documents/GitHub/goit-js-hw-09/package.json1668498308298368292 0
 71/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/v8-compile-cache1668286397937181037 1
 101/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/caniuse-lite/data/features/speech-synthesis.js1668286399737099744 0
 97/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@parcel/core/src/requests/TargetRequest.js1668286399417114186 0
@@ -3850,6 +3880,7 @@
 96/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/caniuse-lite/data/features/css-opacity.js1668286399333117977 0
 79/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/react-refresh/runtime.js1668286398221168202 0
 89/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@parcel/packager-js/lib/helpers.js1668286398297164768 0
+72/home/dima/Documents/GitHub/goit-js-hw-09/dist/02-timer.dc9fd617.css.map1668521319432564938 0
 87/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@parcel/packager-js/lib/index.js1668286398377161153 0
 126/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/msgpackr-extract/node_modules/node-gyp-build-optional-packages/index.js1668286397881183570 0
 74/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@parcel/logger/test1668286397977179228 1
@@ -4366,6 +4397,7 @@
 82/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@parcel/transformer-postcss1668286398249166936 1
 99/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@swc/helpers/src/_interop_require_default.js1668286399109128085 0
 123/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@parcel/node-resolver-core/test/fixture/packages/source/package.json1668286399537108770 0
+63/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/notiflix1668498308138375346 1
 86/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/caniuse-lite/data/regions/VA.js1668286399793097217 0
 100/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@parcel/transformer-postcss/src/loadConfig.js1668286398053175793 0
 86/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/caniuse-lite/data/regions/IT.js1668286399637104257 0
@@ -4513,7 +4545,7 @@
 79/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/css-what/lib/es/types.js1668286398349162418 0
 69/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@parcel/logger1668286398009177781 1
 74/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@parcel/workers/lib1668286398737144887 1
-80/home/dima/Documents/GitHub/goit-js-hw-09/dist/01-color-switcher.52e3b619.js.map1668496724923754069 0
+80/home/dima/Documents/GitHub/goit-js-hw-09/dist/01-color-switcher.52e3b619.js.map1668521319432564938 0
 92/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/caniuse-lite/data/features/portals.js1668286399705101188 0
 82/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/flatpickr/dist/l10n/my.d.ts1668445611912135347 0
 86/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@parcel/workers/lib/cpuCount.js1668286398293164948 0
@@ -4567,6 +4599,7 @@
 105/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@parcel/workers/test/integration/workerfarm/ipc.js1668286398497155731 0
 86/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/caniuse-lite/data/regions/TD.js1668286399769098300 0
 74/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/css-tree/lib/syntax1668286399177125017 1
+93/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/notiflix/build/notiflix-loading-aio.js1668498307894386109 0
 112/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@parcel/workers/test/integration/workerfarm/master-sum.js1668286398525154466 0
 83/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/@parcel/transformer-html/lib1668286398097173805 1
 114/home/dima/Documents/GitHub/goit-js-hw-09/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/mdb_load.c1668286398893137839 0
