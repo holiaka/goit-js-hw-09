@@ -47,7 +47,7 @@ const options = {
 
 flatpickr('input#datetime-picker', options);
 
-//***** Here function list*****/ 
+//***** Here function list*****/
 // If click on button
 function onActivateBottonClick() {
   if (SELECTEDTIME - new Date().getTime() <= 0) {
@@ -97,8 +97,6 @@ function convertMs(ms) {
 }
 
 function addLeadingZero(value) {
-  if (value.lenght >= 2) {
-    value = value.padStart('0', 2);
-  }
-  return value;
+  let modifiedValue = value.toString().padStart(2, '0');
+  return modifiedValue;
 }

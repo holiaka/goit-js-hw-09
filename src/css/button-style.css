@@ -1,16 +1,14 @@
-
-button {    
-    position: fixed;
-    width: 100px;
-    height: 40px;
-    top: 50%;
-   
+button {
+  position: fixed;
+  width: 100px;
+  height: 40px;
+  top: 50%;
 }
 
 button[data-start] {
-    left: 40%;
+  left: 40%;
 }
 
 button[data-stop] {
-    left: 60%;
+  left: 60%;
 }
